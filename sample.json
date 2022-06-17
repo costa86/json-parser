@@ -1,0 +1,13 @@
+{
+    "title": "the lord of the rings",
+    "characters": [
+        {
+            "name": "frodo",
+            "race": "hobbit"
+        },
+        {
+            "name": "aragorn",
+            "race": "human"
+        }
+    ]
+}
